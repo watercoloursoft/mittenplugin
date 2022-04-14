@@ -1,0 +1,12 @@
+{
+	"name": "plugin-serve",
+	"tree": {
+		"$className": "DataModel",
+		"ServerScriptService": {
+			"$className": "ServerScriptService",
+			"mittenplugin": {
+				"$path": "./default.project.json"
+			}
+		}
+	}
+}
